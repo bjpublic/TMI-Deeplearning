@@ -1,4 +1,4 @@
-# TMI-Deeplearning
+# 친절한 실전 딥러닝 수업
 
 ## 구매 링크
 
